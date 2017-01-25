@@ -32,13 +32,10 @@ and then search Cmd, which will prompt you to the command center.
 Next step is to locate the program folder from
 the Command Canter. In Command Prompt window, type dir – this will provide you
 the all the folder names in C drive. Once, you have located the Program folder
-in the directory, then open that folder by typing cd & the folder name just
-like the picture below: 
+in the directory, then open that folder by typing cd & the folder name. Once the Java file is located from the command
+center, then we can compile. 
 
-Once the Java file is located from the command
-center, then we can compile. To compile the program, type javac HelloWorld.java
-
-– Press enter. This will create a class file, which means now you can run the
+To compile the program, type javac HelloWorld.java– Press enter. This will create a class file, which means now you can run the
 program by typing the name of the program from the command center.  
 
 Congratulation, now you have learn how to compile the java program. 
