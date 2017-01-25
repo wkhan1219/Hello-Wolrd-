@@ -5,9 +5,7 @@ Wajahat khan
 
 How to compile the program from the Command Center? 
 
-First step is to Download JDK and Eclipse.
-
-- Eclipse is an integrated
+First step is to Download JDK and Eclipse.Eclipse is an integrated
 development environment (IDE) used in computer programming. 
 
 - To compile the program, we have
@@ -19,8 +17,7 @@ center. If not, then we have to Path JDK in the system.
 - To Path JDK in the system- First
 step to locate the JDK bin folder location. Once, we have located your JDK bin,
 then copy the location – go to control panel – System and security – System –
-Advanced System Settings -  Advanced tab
-- Environment Variables, then create new Path under user variables and copy the
+Advanced System Settings -  Advanced tab - Environment Variables, then create new Path under user variables and copy the
 location under Variable value and name Variable as Path. 
 
 Second step is to compile the Java program from Command
